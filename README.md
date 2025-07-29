@@ -1,2 +1,2 @@
 
-<a href="https://github.com/MuhammadPaknahadWeb/Dos.git">welcome<
+<a href=" https://muhammadpaknahadweb.github.io/Dos/">welcome
